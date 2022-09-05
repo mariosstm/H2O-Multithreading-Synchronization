@@ -1,5 +1,6 @@
 package H2O_TEST;
 
+//Same as Oxygen/Water
 public class Hydrogen extends Thread{
     WaterFactory factory;
     
